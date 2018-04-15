@@ -4,9 +4,6 @@
 
 
 
-//you are a bitch
-
-
 int main(int argc, const char *argv[]){
 
 
